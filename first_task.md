@@ -1,6 +1,8 @@
-##Баг 1
+##Баг 1 
+fdfd
 ![](https://github.com/RibaPony/QA_Avito/blob/main/images/bug1.png)
 ##Баг 2
+fdfd
 ![](https://github.com/RibaPony/QA_Avito/blob/main/images/bug2.png)
 ##Баг 3
 ![](https://github.com/RibaPony/QA_Avito/blob/main/images/bug3.png)
