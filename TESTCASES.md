@@ -220,7 +220,6 @@ __Фактический результат:__ успешное создание
 ## Программа 
     import requests
     import pytest
-    import re
 
     class Test_API:
     
